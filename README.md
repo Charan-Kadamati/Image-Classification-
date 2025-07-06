@@ -75,7 +75,7 @@ Ideal for:
 ![Architecture Diagram](https://github.com/user-attachments/assets/209330ff-4bb5-4de3-b860-4a18f233cc7b)
 
 ---
-## 🌐 Screenshot
+## 🌐 Screenshots
 ![Screenshot 2025-07-06 230459](https://github.com/user-attachments/assets/edac7c5e-8aeb-42a7-b0f5-1eed56df7368)
 
 ---
@@ -108,9 +108,13 @@ python gui_app.py
 
 **K.V.M Sri Charan**  
 📍 India | ✨ ML Explorer | 🧠 AI Enthusiast
+. https://github.com/Charan-Kadamati
+. https://www.linkedin.com/in/sri-charan-702885340/
 
 ---
 
 ## 📄 License
 
-MIT License
+MIT License'
+
+#tags: tkinter cnn keras resnet50 gui image-classification deep-learning desktop-app python
