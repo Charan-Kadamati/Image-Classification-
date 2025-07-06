@@ -72,8 +72,8 @@ Ideal for:
 
 > 🧠 ResNet50-based Pretrained CNN Pipeline
 
-![Architecture](./path-to-architecture-diagram.png)  
-*(Replace with your actual image path)*
+![Architecture Diagram](https://github.com/user-attachments/assets/209330ff-4bb5-4de3-b860-4a18f233cc7b)
+
 
 ---
 
