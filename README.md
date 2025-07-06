@@ -75,10 +75,8 @@ Ideal for:
 ![Architecture Diagram](https://github.com/user-attachments/assets/209330ff-4bb5-4de3-b860-4a18f233cc7b)
 
 ---
-## 🌐 Live Demo
-
-![Demo](https://github.com/user-attachments/assets/e5aa3ee6-230a-492c-9a5f-fc078016f91c)
-
+## 🌐 Screenshot
+![Screenshot 2025-07-06 230459](https://github.com/user-attachments/assets/edac7c5e-8aeb-42a7-b0f5-1eed56df7368)
 
 ---
 
