@@ -74,8 +74,8 @@ Classification history maintained in the session and optionally saved
         +----------------+----------------+
         |                                 |
  +------+-------+              +----------+---------+
- | Image Display |            | Classification Log |
- +--------------+            +---------------------+
+ | Image Display |             | Classification Log |
+ +--------------+              +---------------------+
 
 
 
