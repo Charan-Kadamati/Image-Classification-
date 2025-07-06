@@ -103,7 +103,8 @@ python gui_app.py
 
 ## 📸 Screenshots (Optional)
 
-> *(Add screenshots of drag-drop UI, prediction cards, batch classification, etc.)*
+![image](https://github.com/user-attachments/assets/d80f1798-3f9f-44b9-9156-3dd5fc05b994)
+
 
 ---
 
