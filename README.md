@@ -108,8 +108,7 @@ python gui_app.py
 
 **K.V.M Sri Charan**  
 📍 India | ✨ ML Explorer | 🧠 AI Enthusiast
-. https://github.com/Charan-Kadamati
-. https://www.linkedin.com/in/sri-charan-702885340/
+🔗 https://www.linkedin.com/in/sri-charan-702885340/
 
 ---
 
