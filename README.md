@@ -74,6 +74,11 @@ Ideal for:
 
 ![Architecture Diagram](https://github.com/user-attachments/assets/209330ff-4bb5-4de3-b860-4a18f233cc7b)
 
+---
+## 🌐 Live Demo
+
+![Demo](https://github.com/user-attachments/assets/e5aa3ee6-230a-492c-9a5f-fc078016f91c)
+
 
 ---
 
@@ -98,13 +103,6 @@ pip install git+https://github.com/pmgagne/tkinterdnd2.git
 ```bash
 python gui_app.py
 ```
-
----
-
-## 📸 Screenshots (Optional)
-
-![image](https://github.com/user-attachments/assets/d80f1798-3f9f-44b9-9156-3dd5fc05b994)
-
 
 ---
 
