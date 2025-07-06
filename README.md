@@ -20,6 +20,18 @@ Ideal for:
 - Quick offline inference testing
 
 ---
+🧠 How It Works (Internals)
+Uses ResNet50 pretrained on ImageNet (1000+ categories)
+
+Image resized to 224x224, preprocessed with Keras utilities
+
+Model returns top 3 predictions + confidence
+
+GUI renders image + prediction results
+
+Classification history maintained in the session and optionally saved
+
+---
 
 ## 🏗️ Tech Stack & Libraries
 
@@ -47,4 +59,80 @@ Ideal for:
 ---
 
 ## 📐 Architecture Diagram
+
+           +-----------------------------+
+           |        User Interface       |
+           |  (Tkinter GUI + Drag/Drop)  |
+           +-------------+---------------+
+                         |
+                         v
+          +--------------+---------------+
+          |        Image Classifier       |
+          |  (Preprocess + ResNet50 CNN)  |
+          +--------------+---------------+
+                         |
+        +----------------+----------------+
+        |                                 |
+ +------+-------+              +----------+---------+
+ | Image Display |            | Classification Log |
+ +--------------+            +---------------------+
+
+---
+
+## 📦 Installation
+
+```bash
+# 1. Clone the repository
+git clone https://github.com/yourusername/image-classifier-gui.git
+cd image-classifier-gui
+
+# 2. Create a virtual environment (recommended)
+python -m venv venv
+venv\Scripts\activate     # On Windows
+# OR
+source venv/bin/activate  # On Unix/Mac
+
+# 3. Install dependencies
+pip install -r requirements.txt
+
+---
+🖱️ Keyboard Shortcuts
+Shortcut	Action
+Ctrl + O	Open image
+Ctrl + Shift + F	Classify folder
+Ctrl + S	Save results
+
+---
+📥 Requirements
+shell
+Copy
+Edit
+tensorflow>=2.8.0
+pillow
+numpy
+tkinterdnd2
+Or install via:
+pip install tensorflow pillow numpy tkinterdnd2
+
+---
+🌟 Future Enhancements
+🌗 Dark / Light Mode Toggle
+
+📊 Prediction Confidence Bar Chart
+
+📁 Export to CSV
+
+🧠 Load custom-trained models
+
+🧹 Add Image Filters or Augmentations
+
+🌐 Multilingual label support
+
+---
+📜 License
+This project is licensed under the MIT License. See LICENSE for full details.
+
+
+
+
 
